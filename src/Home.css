@@ -1,0 +1,48 @@
+/* body {
+    background-image: url("C:\Users\sandh\Desktop\bgg.jpg");
+    background-image: radial-gradient(rgb(155, 238, 238), white);
+} */
+
+.main2-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-image: url("C:\Users\sandh\Desktop\bgg.jpg"); */
+    background-image: radial-gradient(rgb(155, 238, 238), white);
+    height: 100vh;
+    border-radius: 10px;
+    border-color: black;
+    border-radius: 20px;
+    padding: 200px;
+}
+
+.btn1 {
+    margin-top: 30px;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-variant: small-caps;
+    font-weight: 700;
+    width:300px
+}
+.logout-btn {
+    width:100px;
+    margin-top: 30px;
+    background-color: blue;
+    color: aliceblue;
+    height: 40px;
+}
+
+/* .btn {
+    margin-top: 50px;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.btn {
+    margin-top: 50px;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+} */

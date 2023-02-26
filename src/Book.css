@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Roboto&display=swap');
+.bookingdisplay{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.booking-container{
+    
+    /* margin-right: 550px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* margin-left: 250px; */
+    /* margin-top: 50px; */
+    /* border-style: solid; */
+    padding: 90px;
+    background-color:#feedca;
+    /* background-color: #fff2cc; */
+    
+}
+.bookingimage{
+    height: 990px;
+    width: 1170px;
+    
+    /* border-style: solid; */
+   
+}
+.booking-heading{
+    /* font-family: 'Cascade Script',cursive; */
+    font-family: 'algerian';
+    /* font-weight: bold; */
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+.allinputs{
+    padding: 20px;
+}
+.timeslot-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.timeslot-labelname{
+    /* font-family: "Playfair",cursive; */
+    font-family: 'Comic Sans MS';
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 40px;
+}
+.timeslot-selection{
+    font-family: 'Comic Sans MS';
+    font-size: 20px;
+    border-style: outset;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 120px;
+}
+.symptoms-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 40px;
+    
+}
+.symptoms-labelname{
+    font-family: 'Comic Sans MS';
+    font-size: 30px;
+    font-weight: bold;
+    /* margin-right: 40px; */
+
+}
+.symptoms-textarea{
+    border-style: solid outset;
+    border-radius: 20px;
+    height: 60px;
+    width: 200px;
+    margin-left: 15px;
+    font-family: 'Comic Sans MS';
+}
+.consultation-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.consultation-labelname{
+    font-family: 'Comic Sans MS';
+    font-size: 30px;
+    font-weight: bold;
+    /* margin-right: 40px; */
+}
+.consultation-selection{
+    font-family: "Roboto";
+    font-size: 20px;
+    
+    border-radius: 20px;
+    font-weight: bold;
+    width: 100px;
+    
+}
+.booking-button{
+    margin-left: 150px;
+    margin-top: 20px;
+}

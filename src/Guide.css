@@ -1,0 +1,21 @@
+.main5-container {
+    display: flex;
+    flex-direction: column;
+    border: 10px;
+    align-items: center;
+    background-color:black;
+    border-radius: 20px;
+    border-color: black;
+    padding: 300px;
+} 
+
+.btn1 {
+    margin-top: 14px;
+    border-color: black;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-variant: small-caps;
+    font-weight: 700;
+    width:300px;
+}

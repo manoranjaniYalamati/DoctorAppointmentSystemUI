@@ -1,0 +1,36 @@
+.depressioncontainer{
+    background-image: linear-gradient(rgb(163, 163, 181), rgb(196, 209, 219));
+    background-size: cover;
+    /* height: 100vh; */
+}
+
+.depdiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+
+}
+.alldep{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+}
+.headingdepression{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.depressionheading{
+    font-size: 40px;
+    font-weight: bold;
+}
+.lists{
+    font-size: 30px;
+}
+.depressionimage{
+    height: 400px;
+    width: 700px;
+}

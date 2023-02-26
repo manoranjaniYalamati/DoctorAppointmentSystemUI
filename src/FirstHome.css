@@ -1,0 +1,82 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.username-container{
+     margin-bottom: 50px;
+    
+     display: flex;
+     flex-direction: row;
+    
+}
+.password-container{
+    margin-bottom: 40px;
+    margin-top: 20px; 
+    margin-left: 20px; 
+   
+}
+.projectlabel{
+    font-family: 'Cascade Script';
+    font-weight: bold;
+    margin-bottom: 100px;
+    font-size: 70px;
+    margin-left: 190px;
+}
+.loginhere{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-family: 'Comic Sans MS';
+}
+.Homeimage{
+    width: 750px;
+    height: 800px;
+    margin-left: 300px;
+   
+}
+.labelname{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 35px;
+}
+.submitbutton{
+    margin-bottom: 20px;
+    width: 100px;
+   text-align: center;
+    margin-top: 30px;
+}
+.inputbox{
+    
+    border: 2px solid rgb(232, 227, 227); 
+    border-style: outset;
+    border-radius: 10px; 
+    width: 300px;
+    height: 50px;
+    margin-bottom: 10px;
+    
+}
+.newlabelname{
+    font-size: 20px;
+    color: rgb(108, 112, 112);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.registerbutton{
+    margin-left: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.register-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 50px;
+}
